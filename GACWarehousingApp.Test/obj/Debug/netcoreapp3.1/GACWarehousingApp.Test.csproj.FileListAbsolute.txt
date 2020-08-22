@@ -1,0 +1,16 @@
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.exe
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.Test.deps.json
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.Test.dll
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.dll
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.pdb
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.csprojAssemblyReference.cache
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.AssemblyInfoInputs.cache
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.AssemblyInfo.cs
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.csproj.CopyComplete
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\bin\Debug\netcoreapp3.1\GACWarehousingApp.Test.pdb
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.dll
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.pdb
+C:\Code\GACWarehousingApp\GACWarehousingApp.Test\obj\Debug\netcoreapp3.1\GACWarehousingApp.Test.csproj.CoreCompileInputs.cache
